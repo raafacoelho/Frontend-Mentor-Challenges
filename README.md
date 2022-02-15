@@ -12,6 +12,6 @@ This repository contains some challenges from [Frontend Mentors](https://www.fro
 | Advanced     | :star: :star: :star: :star: :star:        |
 | Guru         | :star: :star: :star: :star: :star: :star: |
 
-| Name                  | Difficulty | Technologies / Approaches |
-| --------------------- | ---------- | ------------------------- |
-| [QR code component]() | :star:     | HTML, CSS                 |
+| Name                                                                                            | Difficulty | Technologies / Approaches |
+| ----------------------------------------------------------------------------------------------- | ---------- | ------------------------- |
+| [QR code component](https://raafacoelho.github.io/Frontend-Mentor-Challenges/qrcode-component/) | :star:     | HTML, CSS                 |
